@@ -1,0 +1,9 @@
+# Byte-compiled
+__pycache__/
+
+# Environments
+.env.dev
+.venv/
+
+# mypy
+.mypy_cache/
