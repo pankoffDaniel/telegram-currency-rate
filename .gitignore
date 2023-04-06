@@ -7,3 +7,6 @@ __pycache__/
 
 # mypy
 .mypy_cache/
+
+# Dev-config
+app/application/settings/config.dev.toml

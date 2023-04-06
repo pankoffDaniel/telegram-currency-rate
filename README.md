@@ -12,7 +12,7 @@
 Для установки зависимостей вводится команда:
 
 ```sh
-pip3 install -r requirements.txt
+poetry install
 ```
 
 #### Конфигурация
